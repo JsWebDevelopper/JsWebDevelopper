@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>Compétences</h2>
+<h2>Compétences (Skills) </h2>
 <ul>
   <li>Front-End
     <ul style="list-style: none;">

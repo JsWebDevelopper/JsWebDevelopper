@@ -7,7 +7,7 @@
   </p>
   <hr>
    <p style="display:flex;justify-content: space-between;width:100%;border:1px red solid;">
-  <img style="margin:20px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
+  <img style="margin:50px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
   </p>
 <h2>Compétences (Skills) </h2>
 

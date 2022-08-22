@@ -6,7 +6,7 @@
   n'hesiter pas à me conatcer si vous avez besoin d'un développeur, automone et responsable, je prend en charge  les projets de mes clients avec un esprit serieur et responsble. 
   </p>
   <hr>
-   <p style="display:flex;justify-content: space-between;">
+   <p style="display:flex;justify-content: space-between;width:100%;border:1px red solid;">
   <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
   </p>
 <h2>Compétences (Skills) </h2>

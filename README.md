@@ -1,4 +1,4 @@
-### Hi there 👋 I am a freelance web developer
+### Hi there 👋 I am a freelance web developerrr
 <p>
   Passionner du web, en tant que programmeur full stack je me charge des parties front end et back end de mes projets, je collabore également avec des partenaires pour des travaux de design et de référencement. 
   </p>
@@ -7,7 +7,7 @@
   </p>
   <hr>
    <p style="display:flex;justify-content: space-between;width:100%;border:1px red solid;">
-  <img style="margin:20px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
+  <img style="margin:30px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="display:inline" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  <img style="" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
   </p>
 <h2>Compétences (Skills) </h2>
 

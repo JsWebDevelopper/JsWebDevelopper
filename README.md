@@ -8,8 +8,8 @@
   <hr>
    <p style="display:flex;">
       <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">  
-      <img src="https://webocco.com/wp-content/uploads/2021/12/design-web.png">  
-      <img src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
+      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/design-web.png">  
+      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png">
   </p>
 <h2>Compétences (Skills) </h2>
 

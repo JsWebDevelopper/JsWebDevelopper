@@ -2,6 +2,9 @@
 <p>
   Passionner du web, en tant que programmeur full stack je me charge des parties front end et back end de mes projets, je collabore également avec des partenaires pour des travaux de design et de référencement. 
   </p>
+  <p>
+  n'hesiter pas à me conatcer si vous avez besoin d'un développeur, automone et responsable, je prend en charge  les projets de mes clients avec un esprit serieur et responsble. 
+  </p>
 <h2>Compétences (Skills) </h2>
 
 <ul>

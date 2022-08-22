@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a freelance web developer
 <h2>Compétences (Skills) </h2>
 <ul>
   <li>Front-End

@@ -7,9 +7,9 @@
   </p>
   <hr>
    <p style="display:flex;">
-      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png"> &nbsp; 
-      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/design-web.png">  
-      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2022/08/php-api.jpg">
+      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/frontEnd-js.png"> &nbsp; &nbsp; 
+      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2021/12/design-web.png">  &nbsp; &nbsp;
+      <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2022/08/php-api.jpg"> &nbsp; &nbsp;
       <img style="width:150px;" src="https://webocco.com/wp-content/uploads/2022/08/php-api.jpg">
   </p>
 <h2>Compétences (Skills) </h2>

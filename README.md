@@ -1,4 +1,4 @@
-### Hi there 👋 I am a freelance web developerrr
+<h1>Hi there 👋 I am a freelance web developer</h1>
 <p>
   Passionner du web, en tant que programmeur full stack je me charge des parties front end et back end de mes projets, je collabore également avec des partenaires pour des travaux de design et de référencement. 
   </p>

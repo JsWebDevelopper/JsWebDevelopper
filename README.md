@@ -3,7 +3,21 @@
 <ul>
   <li>Front-End
     <ul style="list-style: none;">
-      <li>HTML / CSS /JS</li>
+      <li>HTML / CSS /JavaScript</li>
+      <li>React Js</li>
+      <li>Vue JS</li>
+    </ul>  
+  </li>
+  <li>Back-End
+    <ul style="list-style: none;">
+      <li>PHP/MySql Rest API</li>
+      <li>Node JS Rest API</li>     
+    </ul>  
+  </li>
+  <li>WordPress CMS
+    <ul style="list-style: none;">     
+      <li>Elementor</li>
+      <li>WooCommerce</li>
     </ul>  
   </li>
 </ul>
